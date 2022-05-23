@@ -2,9 +2,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background: #f3e4a5;
+}
+body h1{
+  text-align: center;
 }
 .test{
   color: #e2f1c3;
-  background: #c9c9c9;
+  background: black;
 }
+/*dgdsg*/
